@@ -1,4 +1,4 @@
-# PREDICTING RATING SCORE ON AIRBNB NYC DATA
+# PREDICTING RATING SCORE ON AIRBNB NYC DATA🚀
 
 For my final ML project, I used NYC Airbnb 2020[^1] data to predict the rating scores of different properties. In addition to using common ML packages, I also included *accuracy score* and *roc_auc_score* and *RMSE* to 
 analyze our regression models: ***Linear, Decision Tree, and Random Forest***. 
